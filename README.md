@@ -22,4 +22,8 @@
 ##### mercado_stock_price.csv 
 
 
+### Cite
+
+#### 'mercado_stock_trends_df = mercado_stock_trends_df.loc[:, ~mercado_stock_trends_df.columns.duplicated()]'
+#### I was helped by a tutor not offered through the bootcamp with this line of code.
 

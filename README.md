@@ -6,13 +6,6 @@
 ###### !pip install hvplot
 ###### !pip install holoviews
 
-###### import pandas as pd
-###### import holoviews as hv
-###### from prophet import Prophet
-###### import hvplot.pandas
-###### import datetime as dt
-###### %matplotlib inline
-
 ### Instructions
 
 ##### Step 1: Find unusual patterns in hourly Google search traffic
@@ -27,4 +20,6 @@
 ##### google_hourly_search_trends.csv
 ##### mercado_daily_revenue.csv
 ##### mercado_stock_price.csv 
+
+
 
